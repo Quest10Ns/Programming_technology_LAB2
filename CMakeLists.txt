@@ -5,4 +5,5 @@ set(CMAKE_CXX_STANDARD 20)
 
 add_executable(Programming_technology_LAB2
         main.cpp
-        Aeroflot.h)
+        Aeroflot.h
+        AEROFLOT.cpp)

@@ -25,7 +25,6 @@ public:
 
     friend std::ostream& operator<<(std::ostream& os, const AEROFLOT& aero);
     friend std::istream& operator>>(std::istream& is, AEROFLOT& aero);
-    AEROFLOT& operator=(const AEROFLOT& other);
 };
 
 #endif
